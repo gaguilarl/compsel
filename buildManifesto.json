@@ -1,0 +1,34 @@
+{
+    "build_name": "Build0",
+    "svn_url": "svn://localhost/home/gabriel/Desktop/chamba/compsel/svn/repo",
+    "sw_bom":
+    {
+        "components":
+        {
+            "list" :
+            {
+                "comp_x": 
+                {
+                    "name": "CompX",
+                    "branch": "branches/branch_comp_x",
+                    "path": "App/compX",
+                    "revision": "HEAD"
+                },
+                "comp_y":
+                {
+                    "name": "CompY",
+                    "branch": "branches/branch_comp_y",
+                    "path": "App/compY",
+                    "revision": "HEAD"
+                },
+                "comp_z":
+                {
+                    "name": "CompZ",
+                    "branch": "branches/branch_comp_z",
+                    "path": "App/compZ",
+                    "revision": "HEAD"
+                }
+            }
+        }
+    }
+}
